@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eamonn Rogers, an Irish computer science graduate based in Toronto, Canada
+- 👋 Hi I’m Eamonn! I'm an Irish computer science graduate based in Toronto, Canada
 - 👀 I’m currently looking for work as a software developer, particularly in Android
 - 🌱 I’m proficient in Java but looking to expand my Android knowledge and so I am currently learning kotlin
 - 💞️ Feel free to reach out whether it be about work, collaborating on a project or just looking to chat about tech in general
